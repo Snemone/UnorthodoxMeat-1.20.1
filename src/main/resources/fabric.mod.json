@@ -19,10 +19,10 @@
 			"snemone.unorthodox_meat.UnorthodoxMeatClient"
 		],
 		"main": [
-			"snemone.unorthodox_meat.Unorthodox_Meat"
+			"snemone.unorthodox_meat.UnorthodoxMeat"
 		],
 		"fabric-datagen": [
-			"snemone.unorthodox_meat.Unorthodox_MeatDataGenerator"
+			"snemone.unorthodox_meat.UnorthodoxMeatDataGenerator"
 		]
 	},
 	"mixins": [
