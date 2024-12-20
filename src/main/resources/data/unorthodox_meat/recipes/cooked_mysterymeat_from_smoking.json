@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smoking",
+  "category": "food",
+  "cookingtime": 100,
+  "experience": 0.35,
+  "ingredient": {
+    "item": "unorthodox_meat:mysterymeat"
+  },
+  "result": "unorthodox_meat:cooked_mysterymeat"
+}
