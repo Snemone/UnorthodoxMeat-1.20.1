@@ -1,8 +1,8 @@
 {
 	"schemaVersion": 1,
-	"id": "tutorialmod",
+	"id": "unorthodox_meat",
 	"version": "${version}",
-	"name": "TutorialMod",
+	"name": "Meat of Unorthodox Origin",
 	"description": "This is an tutorial mod for learning.",
 	"authors": [
 		"Snemone"
@@ -17,6 +17,9 @@
 	"entrypoints": {
 		"client": [
 			"snemone.tutorialmod.TutorialModClient"
+		],
+		"main": [
+			"snemone.tutorialmod.TutorialMod"
 		],
 		"fabric-datagen": [
 			"snemone.tutorialmod.TutorialModDataGenerator"

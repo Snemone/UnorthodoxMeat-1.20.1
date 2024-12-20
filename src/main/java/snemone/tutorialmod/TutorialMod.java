@@ -4,9 +4,10 @@ import net.fabricmc.api.ModInitializer;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
+import snemone.tutorialmod.item.ModItems;
 
 public class TutorialMod implements ModInitializer {
-	public static final String MOD_ID = "tutorialmod";
+	public static final String MOD_ID = "unorthodox_meat";
 
 	// This logger is used to write text to the console and the log file.
 	// It is considered best practice to use your mod id as the logger's name.
@@ -20,6 +21,7 @@ public class TutorialMod implements ModInitializer {
 		// Proceed with mild caution.
 
 		LOGGER.info("Hello Fabric world!");
+		ModItems.registerModItems();
 	}
 }
 
