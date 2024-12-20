@@ -1,4 +1,4 @@
-package snemone.tutorialmod.mixin;
+package snemone.unorthodox_meat.mixin;
 
 import net.minecraft.server.MinecraftServer;
 import org.spongepowered.asm.mixin.Mixin;

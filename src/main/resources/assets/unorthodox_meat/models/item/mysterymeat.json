@@ -1,6 +1,6 @@
 {
   "parent": "item/generated",
   "textures": {
-    "layer0": "tutorialmod:item/cooked_mysterymeat"
+    "layer0": "unorthodox_meat:item/mysterymeat"
   }
 }

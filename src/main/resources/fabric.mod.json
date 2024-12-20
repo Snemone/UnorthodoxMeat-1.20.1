@@ -3,7 +3,7 @@
 	"id": "unorthodox_meat",
 	"version": "${version}",
 	"name": "Meat of Unorthodox Origin",
-	"description": "This is an tutorial mod for learning.",
+	"description": "Cooking with friends!",
 	"authors": [
 		"Snemone"
 	],
@@ -12,21 +12,21 @@
 		"sources": "https://github.com/FabricMC/fabric-example-mod"
 	},
 	"license": "MIT",
-	"icon": "assets/tutorialmod/icon.png",
+	"icon": "assets/unorthodox_meat/icon.png",
 	"environment": "*",
 	"entrypoints": {
 		"client": [
-			"snemone.tutorialmod.TutorialModClient"
+			"snemone.unorthodox_meat.UnorthodoxMeatClient"
 		],
 		"main": [
-			"snemone.tutorialmod.TutorialMod"
+			"snemone.unorthodox_meat.Unorthodox_Meat"
 		],
 		"fabric-datagen": [
-			"snemone.tutorialmod.TutorialModDataGenerator"
+			"snemone.unorthodox_meat.Unorthodox_MeatDataGenerator"
 		]
 	},
 	"mixins": [
-		"tutorialmod.mixins.json"
+		"unorthodox_meat.mixins.json"
 	],
 	"depends": {
 		"fabricloader": ">=0.16.9",

@@ -39,7 +39,7 @@
               "function": "minecraft:looting_enchant"
             }
           ],
-          "name": "tutorialmod:mysterymeat"
+          "name": "unorthodox_meat:mysterymeat"
         }
       ],
       "rolls": 1.0

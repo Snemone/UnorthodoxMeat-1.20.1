@@ -4,7 +4,7 @@
   "cookingtime": 200,
   "experience": 0.35,
   "ingredient": {
-    "item": "tutorialmod:mysterymeat"
+    "item": "unorthodox_meat:mysterymeat"
   },
-  "result": "tutorialmod:cooked_mysterymeat"
+  "result": "unorthodox_meat:cooked_mysterymeat"
 }
